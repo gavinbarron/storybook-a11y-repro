@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Simple demo to show accssibility issues present in Storybook. To see a default storybook site run the following:
+
+```bash
+npm install
+npm run build-storybook
+npm storybook
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
